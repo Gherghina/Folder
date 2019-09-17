@@ -9,9 +9,7 @@ public class Main {
         String building = "Block";
                 String color = "White with yellow";
                         byte floors = 3;
-                        float height = 25.6f;
-                        char purpouse
-
+        float height = 25.6f;
 
     }
 }
